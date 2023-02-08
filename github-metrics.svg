@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sophshep/one-on-one</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A template for a weekly 1:1 repo</div>
@@ -316,7 +316,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yitsushi/totp-cli</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Authy/Google Authenticator like TOTP CLI tool written in Go.</div>
@@ -422,7 +422,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Sciencentistguy/nixfiles</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Nix configurations for my systems</div>
@@ -565,7 +565,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Feb 2023, 16:16:02 (timezone Australia/Brisbane) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 8 Feb 2023, 22:23:38 (timezone Australia/Brisbane) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
