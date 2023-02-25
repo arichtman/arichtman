@@ -316,7 +316,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>plaintextaccounting/plaintextaccounting</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The plaintextaccounting.org website, a portal to Ledger, hledger, beancount and co. Also the PTA wiki.</div>
@@ -561,7 +561,7 @@ Co-authored-by: arichtman &lt;arichtman@users.noreply.github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Feb 2023, 16:15:13 (timezone Australia/Brisbane) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 25 Feb 2023, 22:21:31 (timezone Australia/Brisbane) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
