@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RalfJung/cargo-careful</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Execute Rust code carefully, with extra checking along the way</div>
@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Keats/tera</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A template engine for Rust based on Jinja2/Django</div>
@@ -375,7 +375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aya-rs/aya</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability.</div>
@@ -428,7 +428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aticu/pre</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A rust crate to offer compile-time assistance for working with unsafe code.</div>
@@ -555,7 +555,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Feb 2023, 22:24:38 (timezone Australia/Brisbane) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 1 Mar 2023, 04:16:17 (timezone Australia/Brisbane) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
