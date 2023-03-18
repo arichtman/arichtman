@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>awslabs/amazon-s3-tar-tool</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A utility tool to create a tarball of existing objects in Amazon S3</div>
@@ -375,7 +375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jarun/nnn</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">n³ The unorthodox terminal file manager</div>
@@ -588,7 +588,7 @@ Co-authored-by: arichtman &lt;arichtman@users.noreply.github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Mar 2023, 16:14:36 (timezone Australia/Brisbane) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 18 Mar 2023, 22:21:00 (timezone Australia/Brisbane) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
