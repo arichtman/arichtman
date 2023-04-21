@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SpotOnInc/renovate-config</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sharable Config Presets for Renovatebot, espetially useful for DevOps folks</div>
@@ -316,7 +316,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Mic92/sops-nix</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Atomic secret provisioning for NixOS based on sops</div>
@@ -369,7 +369,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fornwall/rust-script</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run Rust files and expressions as scripts without any setup or compilation step.</div>
@@ -995,7 +995,7 @@ Signed-off-by: Efertone &lt;efertone@pm.me&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Apr 2023, 10:56:23 (timezone Australia/Brisbane) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 21 Apr 2023, 16:15:08 (timezone Australia/Brisbane) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
