@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>solidiquis/erdtree</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modern, cross-platform, and multi-threaded filesystem and disk usage tool that respects hidden file and gitignore rules.</div>
@@ -422,7 +422,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>direnv/direnv</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">unclutter your .profile</div>
@@ -577,7 +577,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Apr 2023, 16:13:38 (timezone Australia/Brisbane) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 29 Apr 2023, 22:19:16 (timezone Australia/Brisbane) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
