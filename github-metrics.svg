@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rustodon/rustodon</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Mastodon-compatible, ActivityPub-speaking server in Rust</div>
@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jippi/masto-guide</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -423,7 +423,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-samples/service-control-policy-examples</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Example AWS Service control policies to get started or mature your usage of AWS SCPs.</div>
@@ -551,7 +551,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 May 2023, 10:55:28 (timezone Australia/Brisbane) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 8 May 2023, 16:14:56 (timezone Australia/Brisbane) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
