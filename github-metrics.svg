@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>picosh/pico</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">pico services - prose.sh, lists.sh, pastes.sh, imgs.sh, feeds.sh</div>
@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LnL7/nix-darwin</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">nix modules for darwin</div>
@@ -375,7 +375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aliask/upthing</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WebUI and Webhook management interface for Up Bank</div>
@@ -422,7 +422,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>epetousis/up-webhook-ingester</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ingests Up Bank webhooks and forwards them to Discord</div>
@@ -560,7 +560,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jun 2023, 22:04:29 (timezone Australia/Brisbane) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 4 Jun 2023, 04:04:08 (timezone Australia/Brisbane) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
