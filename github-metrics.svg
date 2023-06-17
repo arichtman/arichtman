@@ -363,7 +363,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RustPython/RustPython</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Python Interpreter written in Rust</div>
@@ -416,7 +416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>common-fate/granted</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The easiest way to access your cloud.</div>
@@ -577,7 +577,7 @@ This reverts commit 75ecb76d39050c4fc9bf7679caaa414ee00deafd.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jun 2023, 22:04:18 (timezone Australia/Brisbane) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 18 Jun 2023, 04:03:53 (timezone Australia/Brisbane) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
