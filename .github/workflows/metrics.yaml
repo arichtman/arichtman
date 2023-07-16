@@ -27,6 +27,6 @@ jobs:
           plugin_activity_visibility: all
           plugin_rss: yes
           plugin_rss_limit: 4
-          plugin_rss_source: https://www.richtman.com.au/atom.xml
+          plugin_rss_source: https://www.richtman.au/atom.xml
           plugin_stars: yes
           plugin_stars_limit: 4
