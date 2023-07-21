@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DeterminateSystems/magic-nix-cache</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.</div>
@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nix-community/harmonia</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Nix binary cache implemented in rust using libnix-store (maintainer: @Mic92)</div>
@@ -375,7 +375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zhaofengli/colmena</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple, stateless NixOS deployment tool</div>
@@ -428,7 +428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>justinas/nixos-ha-kubernetes</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Toy highly-available Kubernetes cluster on NixOS</div>
@@ -601,7 +601,7 @@ Flake lock file updates:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jul 2023, 10:11:54 (timezone Australia/Brisbane) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 21 Jul 2023, 16:04:07 (timezone Australia/Brisbane) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
