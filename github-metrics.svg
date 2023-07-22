@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            484 Commits
+                            485 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DeterminateSystems/magic-nix-cache</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.</div>
@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nix-community/harmonia</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Nix binary cache implemented in rust using libnix-store (maintainer: @Mic92)</div>
@@ -375,7 +375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zhaofengli/colmena</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple, stateless NixOS deployment tool</div>
@@ -428,7 +428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>justinas/nixos-ha-kubernetes</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Toy highly-available Kubernetes cluster on NixOS</div>
@@ -485,6 +485,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">arichtman/nix</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b2074f9</div>
+                                        <div class="message">minor enhancements</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -557,47 +577,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">arichtman/nix</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">home-lab</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#744cb28</div>
-                                        <div class="message">flake.lock: Update
-
-Flake lock file updates:
-
-• Updated input 'darwin':
-    'github:lnl7/nix-darwin/61662a63bfe1726588c1da6b412df86d8ca94d63' (2023-07-16)
-  → 'github:lnl7/nix-darwin/531c3de7eccf95155828e0cd9f18c25e7f937777' (2023-07-20)
-• Updated input 'firefox-darwin':
-    'github:bandithedoge/nixpkgs-firefox-darwin/b6a553cc5cfea64061ec89e6c8535a2d433f88fa' (2023-07-17)
-  → 'github:bandithedoge/nixpkgs-firefox-darwin/7aa20dbbcbd2371ef13b622ac03f1c3cc5662f37' (2023-07-19)
-• Updated input 'home-manager':
-    'github:nix-community/home-manager/2f84579a70b8c74e5ebb37299a0c3ba279f09382' (2023-07-16)
-  → 'github:nix-community/home-manager/0cb3ac57fca6b52c42e4c0f560185540ae1dfb6c' (2023-07-19)
-• Updated input 'nixpkgs':
-    'github:nixos/nixpkgs/66c990850b878437510cc6096e6babce86de5dcb' (2023-07-16)
-  → 'github:nixos/nixpkgs/7f256d7da238cb627ef189d56ed590739f42f13b' (2023-07-19)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2023, 10:11:33 (timezone Australia/Brisbane) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 22 Jul 2023, 16:03:47 (timezone Australia/Brisbane) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
