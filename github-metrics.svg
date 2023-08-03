@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>numtide/systemd-vaultd</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Provide access to vault secrets to systemd services</div>
@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>numtide/system-manager</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Manage system config using nix on any distro</div>
@@ -428,7 +428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cloud-native-skunkworks/rust-operator</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple K8s operator written in Rust</div>
@@ -578,7 +578,7 @@ Co-authored-by: arichtman &lt;arichtman@users.noreply.github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Aug 2023, 16:04:00 (timezone Australia/Brisbane) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 3 Aug 2023, 22:04:58 (timezone Australia/Brisbane) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
