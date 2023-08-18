@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kelseyhightower/kubernetes-the-hard-way</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.</div>
@@ -358,7 +358,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chaos-mesh/chaos-mesh</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Chaos Engineering Platform for Kubernetes.</div>
@@ -556,7 +556,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Aug 2023, 10:10:03 (timezone Australia/Brisbane) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 18 Aug 2023, 16:04:02 (timezone Australia/Brisbane) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
