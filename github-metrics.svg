@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DBCDK/kubernixos</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple kubernetes manifest reconciler configured by NixOS modules</div>
@@ -363,7 +363,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>R3NE07/Futro-S740</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -544,7 +544,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Aug 2023, 22:04:56 (timezone Australia/Brisbane) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 19 Aug 2023, 04:04:07 (timezone Australia/Brisbane) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
