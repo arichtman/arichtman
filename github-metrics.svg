@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1463" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1296" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.repository .name{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{align-items:center;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.rss{align-items:flex-start}.rss .infos{margin-bottom:3px}.rss .infos .date{font-size:10px;color:#666}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.repository .name{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{align-items:center;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.rss{align-items:flex-start}.rss .infos{margin-bottom:3px}.rss .infos .date{font-size:10px;color:#666}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -42,8 +42,8 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 43 repositories
+                            Contributed to 44 repositories
                         </div>
                     </section>
                 </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            559 Commits
+                            562 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            103 issue comments
+                            104 issue comments
                         </div>
                     </section>
                     <section>
@@ -127,7 +127,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 1046 repositories
+                            Starred 1047 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -145,7 +145,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            42 Repositories
+                            43 Repositories
                         </h2>
                         <div class="row">
                             <section>
@@ -268,8 +268,61 @@
                                         <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                                     </svg>
                                     <div class="name">
+                                        <span>gytis-ivaskevicius/flake-utils-plus</span>
+                                        <span>starred 3 hours ago</span>
+                                    </div>
+                                </div>
+                                <div class="field description">Use Nix flakes without any fluff.</div>
+                                <div class="field infos">
+                                    <div class="language">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill="#7e7eff" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                        </svg>
+                                        Nix
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M8.75.75a.75.75 0 00-1.5 0V2h-.984c-.305 0-.604.08-.869.23l-1.288.737A.25.25 0 013.984 3H1.75a.75.75 0 000 1.5h.428L.066 9.192a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.514 3.514 0 00.686.45A4.492 4.492 0 003 11c.88 0 1.556-.22 2.023-.454a3.515 3.515 0 00.686-.45l.045-.04.016-.015.006-.006.002-.002.001-.002L5.25 9.5l.53.53a.75.75 0 00.154-.838L3.822 4.5h.162c.305 0 .604-.08.869-.23l1.289-.737a.25.25 0 01.124-.033h.984V13h-2.5a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-2.5V3.5h.984a.25.25 0 01.124.033l1.29.736c.264.152.563.231.868.231h.162l-2.112 4.692a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.517 3.517 0 00.686.45A4.492 4.492 0 0013 11c.88 0 1.556-.22 2.023-.454a3.512 3.512 0 00.686-.45l.045-.04.01-.01.006-.005.006-.006.002-.002.001-.002-.529-.531.53.53a.75.75 0 00.154-.838L13.823 4.5h.427a.75.75 0 000-1.5h-2.234a.25.25 0 01-.124-.033l-1.29-.736A1.75 1.75 0 009.735 2H8.75V.75zM1.695 9.227c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L3 6.327l-1.305 2.9zm10 0c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L13 6.327l-1.305 2.9z"/>
+                                        </svg>
+                                        MIT
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        </svg>
+                                        372
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
+                                        </svg>
+                                        37
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                            <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                        </svg>
+                                        52
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        </svg>
+                                        82
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width largeable-width-half">
+                            <section class="repository">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                                    </svg>
+                                    <div class="name">
                                         <span>CharlotteCross1998/linuwux</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of uwu images of distros.</div>
@@ -408,59 +461,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width largeable-width-half">
-                            <section class="repository">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="name">
-                                        <span>haileys/bark</span>
-                                        <span>starred 13 days ago</span>
-                                    </div>
-                                </div>
-                                <div class="field description">live sync audio streaming for local networks</div>
-                                <div class="field infos">
-                                    <div class="language">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                        </svg>
-                                        Rust
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M8.75.75a.75.75 0 00-1.5 0V2h-.984c-.305 0-.604.08-.869.23l-1.288.737A.25.25 0 013.984 3H1.75a.75.75 0 000 1.5h.428L.066 9.192a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.514 3.514 0 00.686.45A4.492 4.492 0 003 11c.88 0 1.556-.22 2.023-.454a3.515 3.515 0 00.686-.45l.045-.04.016-.015.006-.006.002-.002.001-.002L5.25 9.5l.53.53a.75.75 0 00.154-.838L3.822 4.5h.162c.305 0 .604-.08.869-.23l1.289-.737a.25.25 0 01.124-.033h.984V13h-2.5a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-2.5V3.5h.984a.25.25 0 01.124.033l1.29.736c.264.152.563.231.868.231h.162l-2.112 4.692a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.517 3.517 0 00.686.45A4.492 4.492 0 0013 11c.88 0 1.556-.22 2.023-.454a3.512 3.512 0 00.686-.45l.045-.04.01-.01.006-.005.006-.006.002-.002.001-.002-.529-.531.53.53a.75.75 0 00.154-.838L13.823 4.5h.427a.75.75 0 000-1.5h-2.234a.25.25 0 01-.124-.033l-1.29-.736A1.75 1.75 0 009.735 2H8.75V.75zM1.695 9.227c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L3 6.327l-1.305 2.9zm10 0c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L13 6.327l-1.305 2.9z"/>
-                                        </svg>
-                                        GNU AGPLv3
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                        </svg>
-                                        580
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
-                                        </svg>
-                                        6
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                            <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                        </svg>
-                                        6
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                        </svg>
-                                        0
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -480,15 +480,171 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">arichtman/nixpkgs</span>
+                                        Pushed 10 commits in
+                                        <span class="repo">arichtman/nix</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">package-tfmerge</span></div>
+                                    <div>on branch <span class="code">ssh-bootstrapping</span></div>
                                     <div class="commit">
-                                        <div class="sha">#280917e</div>
+                                        <div class="sha">#d60ff23</div>
+                                        <div class="message">wip, fixed json import</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5fc3680</div>
                                         <div class="message">wip</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#683485c</div>
+                                        <div class="message">flake.lock: Update
+
+Flake lock file updates:
+
+• Updated input 'home-manager':
+    'github:nix-community/home-manager/958c06303f43cf0625694326b7f7e5475b1a2d5c' (2023-08-20)
+  → 'github:nix-community/home-manager/6a20e40acaebf067da682661aa67da8b36812606' (2023-08-23)
+• Updated input 'nixpkgs':
+    'github:nixos/nixpkgs/3476a10478587dec90acb14ec6bde0966c545cc0' (2023-08-20)
+  → 'github:nixos/nixpkgs/1e44a037bbf4fcaba041436e65e87be88f3f495b' (2023-08-25)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#90cb589</div>
+                                        <div class="message">wip</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#da1ba2e</div>
+                                        <div class="message">Merge branch 'mac-update'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6be8358</div>
+                                        <div class="message">Squashed commit of the following:
+
+commit 980f4df8a187e75dcb62cf5b07838868004153f8
+Author: Ariel Richtman &lt;10679234+arichtman@users.noreply.github.com&gt;
+Date:   Thu Aug 17 16:34:54 2023 +1000
+
+    explored kubernetes
+
+commit 2d4bcd7bec927c67c04d62284f90927b0668653d
+Author: Ariel Richtman &lt;10679234+arichtman@users.noreply.github.com&gt;
+Date:   Sun Aug 20 22:24:37 2023 +1000
+
+    flake.lock: Update
+
+    Flake lock file updates:
+
+    • Updated input 'home-manager':
+        'github:nix-community/home-manager/bdb5bcad01ff7332fdcf4b128211e81905113f84' (2023-08-19)
+      → 'github:nix-community/home-manager/958c06303f43cf0625694326b7f7e5475b1a2d5c' (2023-08-20)
+
+commit 4009a8c8fddaa7ddccd37c719d60e513ad924dd2
+Author: Ariel Richtman &lt;10679234+arichtman@users.noreply.github.com&gt;
+Date:   Sun Aug 20 22:24:21 2023 +1000
+
+    reverted kubernetes bodges
+
+commit 6f458b7f1fc1533fdd16a3d64895a00c4c3fa692
+Author: Ariel Richtman &lt;10679234+arichtman@users.noreply.github.com&gt;
+Date:   Sun Aug 20 22:13:53 2023 +1000
+
+    squashed a couple docs bugs
+
+commit 62feee7a31a9486b3b77deb08a9bd579314c4dc6
+Author: Ariel Richtman &lt;10679234+arichtman@users.noreply.github.com&gt;
+Date:   Sun Aug 20 21:19:05 2023 +1000
+
+    tidied k8s docs
+
+commit aa09fca093b9ca57cfe9c420718bdcfb0b6639da
+Author: Ariel Richtman &lt;10679234+arichtman@users.noreply.github.com&gt;
+Date:   Sun Aug 20 19:51:40 2023 +1000
+
+    kube-apiserver working
+
+commit 49ec182163ba94fd086f400843b294245e4d6bb1
+Author: Ariel Richtman &lt;10679234+arichtman@users.noreply.github.com&gt;
+Date:   Sat Aug 19 21:53:02 2023 +1000
+
+    add ipv6 to etcd
+
+commit 583b545968add6438207c684dd7bd6c35938bdf8
+Author: Ariel Richtman &lt;10679234+arichtman@users.noreply.github.com&gt;
+Date:   Sat Aug 19 21:26:38 2023 +1000
+
+    added templating to set the full dn properly
+
+commit 35275b5c46fba78faa3d32dd414f7d22d3ec5eae
+Author: Ariel Richtman &lt;10679234+arichtman@users.noreply.github.com&gt;
+Date:   Sat Aug 19 20:15:45 2023 +1000
+
+    etcd working
+
+commit 5f921cde3ece84ac5d22a9ae43ae0553a1f999f4
+Author: Ariel Richtman &lt;10679234+arichtman@users.noreply.github.com&gt;
+Date:   Fri Aug 18 20:10:00 2023 +1000
+
+    wip, etcd working.
+
+commit e7da83acc3cd73c73d16b77e27602cc6ffdca140
+Author: Ariel Richtman &lt;10679234+arichtman@users.noreply.github.com&gt;
+Date:   Thu Aug 17 20:34:13 2023 +1000
+
+    wip, squash
+
+commit ecce12d0386163fbdc9a76fc7ef1b4f6b177b92f
+Author: Ariel Richtman &lt;10679234+arichtman@users.noreply.github.com&gt;
+Date:   Thu Aug 17 16:35:31 2023 +1000
+
+    flake.lock: Update
+
+    Flake lock file updates:
+
+    • Updated input 'darwin':
+        'github:lnl7/nix-darwin/3fcd83783a1e2ddad0f14821da4186a95bc76c50' (2023-08-13)
+      → 'github:lnl7/nix-darwin/511177ffe8226c78c9cf6a92a7b5f2df3684956b' (2023-08-17)
+    • Updated input 'firefox-darwin':
+        'github:bandithedoge/nixpkgs-firefox-darwin/3be813972678fab11aaeca7c50de72babcfcd31c' (2023-08-14)
+      → 'github:bandithedoge/nixpkgs-firefox-darwin/c2dc49a0beff4218103df10790583e28d0322d9a' (2023-08-17)
+    • Updated input 'home-manager':
+        'github:nix-community/home-manager/da6874e8bb82204323b94154585a1471c739f73e' (2023-08-14)
+      → 'github:nix-community/home-manager/2471d965a3522025157a790fc49c3567fd56e26e' (2023-08-16)
+    • Updated input 'nixpkgs':
+        'github:nixos/nixpkgs/de2b8ddf94d6cc6161b7659649594c79bd66c13b' (2023-08-14)
+      → 'github:nixos/nixpkgs/214c9de8159b25f3cdc8374a80794d4d5787b4cf' (2023-08-16)
+
+commit b351d4f50d2f08bb9eca0815d76cfac4400076e0
+Author: Ariel Richtman &lt;10679234+arichtman@users.noreply.github.com&gt;
+Date:   Thu Aug 17 16:34:54 2023 +1000
+
+    wip, squash</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22de23b</div>
+                                        <div class="message">updated macs to pull lima off the ancient one</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0dbd6fa</div>
+                                        <div class="message">flake.lock: Update
+
+Flake lock file updates:
+
+• Updated input 'firefox-darwin':
+    'github:bandithedoge/nixpkgs-firefox-darwin/16ac98175fbcf11ab49aab2fbc4266d07125e838' (2023-08-19)
+  → 'github:bandithedoge/nixpkgs-firefox-darwin/e3a09dd40eef548e1d3121a8a15309a3710db095' (2023-08-30)
+• Updated input 'home-manager':
+    'github:nix-community/home-manager/958c06303f43cf0625694326b7f7e5475b1a2d5c' (2023-08-20)
+  → 'github:nix-community/home-manager/f5c15668f9842dd4d5430787d6aa8a28a07f7c10' (2023-08-30)
+• Updated input 'nixpkgs':
+    'github:nixos/nixpkgs/3476a10478587dec90acb14ec6bde0966c545cc0' (2023-08-20)
+  → 'github:nixos/nixpkgs/a63a64b593dcf2fe05f7c5d666eb395950f36bc9' (2023-08-30)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b2e89af</div>
+                                        <div class="message">stuff</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f3f9bd4</div>
+                                        <div class="message">removed unused inputs</div>
                                     </div>
                                 </div>
                             </section>
@@ -500,24 +656,11 @@
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Created new
+                                        Deleted
                       branch
-                                        <span class="code">vendor</span>
+                                        <span class="code">mac-update</span>
                                         in
-                                        <span class="repo">arichtman/tfmerge</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">CharlotteCross1998/linuwux</span>
+                                        <span class="repo">arichtman/nix</span>
                                     </div>
                                 </div>
                             </section>
@@ -529,120 +672,31 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 743 commits in
-                                        <span class="repo">arichtman/nixpkgs</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">arichtman/nix</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cc4bb23</div>
-                                        <div class="message">perf: enable `perf stat` evens supported by `libpfm`</div>
+                                        <div class="sha">#da1ba2e</div>
+                                        <div class="message">Merge branch 'mac-update'</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#ccffaec</div>
-                                        <div class="message">nuclear: 0.6.27 -&gt; 0.6.30</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#253a063</div>
-                                        <div class="message">xdg-dbus-proxy: use `finalAttrs` pattern</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#08ca4e0</div>
-                                        <div class="message">thonny: 4.1.1 -&gt; 4.1.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a5c7c4</div>
-                                        <div class="message">muse: 3.1.1 -&gt; 4.1.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c925bd9</div>
-                                        <div class="message">xdg-dbus-proxy: 0.1.4 -&gt; 0.1.5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e428868</div>
-                                        <div class="message">juju: 3.2.0 -&gt; 3.2.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#87c629f</div>
-                                        <div class="message">nimbo: 0.2.4 -&gt; 0.3.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7706f57</div>
-                                        <div class="message">dnscrypt-proxy: rename from dnscrypt-proxy2
-
-An alias is added for dnscrypt-proxy2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05db2ff</div>
-                                        <div class="message">albert: 0.20.14 -&gt; 0.22.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee363c9</div>
-                                        <div class="message">openmvs: 2.1.0 -&gt; 2.2.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#98741b7</div>
-                                        <div class="message">maui-shell: 0.5.6 -&gt; 0.6.6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#103bb49</div>
-                                        <div class="message">nixos/stage-2-init: Change permission of /etc/nixos only if it exists
-
-When I boot there's a warning `stage-2-init: install: cannot change permissions of '/etc/nixos': No such file or directory`
-because my /etc/nixos is a symlink to $HOME/dotfiles.
-
-```
-/etc/nixos -&gt; /home/artturin/dotfiles
-```
-
-These lines were added in 56b465390449926626d3378e05b8e507061cd828</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#003a188</div>
-                                        <div class="message">gitlab: 16.1.3 -&gt; 16.1.4
-
-https://gitlab.com/gitlab-org/gitlab/-/blob/v16.1.4-ee/CHANGELOG.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6c462a5</div>
-                                        <div class="message">qtstyleplugin-kvantum: fix loading builtin themes on Qt 6
-
-Signed-off-by: Sefa Eyeoglu &lt;contact@scrumplex.net&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cd135d4</div>
-                                        <div class="message">qtstyleplugin-kvantum: add suffix to Qt 6 variant
-
-Signed-off-by: Sefa Eyeoglu &lt;contact@scrumplex.net&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#896b2b9</div>
-                                        <div class="message">ArchiSteamFarm: 5.4.7.3 -&gt; 5.4.8.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d746f25</div>
-                                        <div class="message">curl: Fix cross-compilation to Windows by not forcing gssSupport
-
-E.g. `nix build .#pkgsCross.mingwW64.curl` would fail. The params for
-curl already have `gssSupport = !isStatic &amp;&amp; …`, so removing this
-doesn’t really have any effect since it’s already `true` when possible
-and `false` for static platforms.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ed04798</div>
-                                        <div class="message">h2: 2.1.210 -&gt; 2.2.220
-
-Release notes:
-https://github.com/h2database/h2database/releases/tag/version-2.2.220
-https://github.com/h2database/h2database/releases/tag/version-2.1.214
-https://github.com/h2database/h2database/releases/tag/version-2.1.212</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f6dad5</div>
-                                        <div class="message">c-ares: ensure passthru.tests' curl is built with c-ares support
-
-kinda pointless otherwise</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">kubes</span>
+                                        in
+                                        <span class="repo">arichtman/nix</span>
                                     </div>
                                 </div>
                             </section>
@@ -659,10 +713,109 @@ kinda pointless otherwise</div>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">broken-shell</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#30d89bf</div>
-                                        <div class="message">simplified further</div>
+                                        <div class="sha">#6be8358</div>
+                                        <div class="message">Squashed commit of the following:
+
+commit 980f4df8a187e75dcb62cf5b07838868004153f8
+Author: Ariel Richtman &lt;10679234+arichtman@users.noreply.github.com&gt;
+Date:   Thu Aug 17 16:34:54 2023 +1000
+
+    explored kubernetes
+
+commit 2d4bcd7bec927c67c04d62284f90927b0668653d
+Author: Ariel Richtman &lt;10679234+arichtman@users.noreply.github.com&gt;
+Date:   Sun Aug 20 22:24:37 2023 +1000
+
+    flake.lock: Update
+
+    Flake lock file updates:
+
+    • Updated input 'home-manager':
+        'github:nix-community/home-manager/bdb5bcad01ff7332fdcf4b128211e81905113f84' (2023-08-19)
+      → 'github:nix-community/home-manager/958c06303f43cf0625694326b7f7e5475b1a2d5c' (2023-08-20)
+
+commit 4009a8c8fddaa7ddccd37c719d60e513ad924dd2
+Author: Ariel Richtman &lt;10679234+arichtman@users.noreply.github.com&gt;
+Date:   Sun Aug 20 22:24:21 2023 +1000
+
+    reverted kubernetes bodges
+
+commit 6f458b7f1fc1533fdd16a3d64895a00c4c3fa692
+Author: Ariel Richtman &lt;10679234+arichtman@users.noreply.github.com&gt;
+Date:   Sun Aug 20 22:13:53 2023 +1000
+
+    squashed a couple docs bugs
+
+commit 62feee7a31a9486b3b77deb08a9bd579314c4dc6
+Author: Ariel Richtman &lt;10679234+arichtman@users.noreply.github.com&gt;
+Date:   Sun Aug 20 21:19:05 2023 +1000
+
+    tidied k8s docs
+
+commit aa09fca093b9ca57cfe9c420718bdcfb0b6639da
+Author: Ariel Richtman &lt;10679234+arichtman@users.noreply.github.com&gt;
+Date:   Sun Aug 20 19:51:40 2023 +1000
+
+    kube-apiserver working
+
+commit 49ec182163ba94fd086f400843b294245e4d6bb1
+Author: Ariel Richtman &lt;10679234+arichtman@users.noreply.github.com&gt;
+Date:   Sat Aug 19 21:53:02 2023 +1000
+
+    add ipv6 to etcd
+
+commit 583b545968add6438207c684dd7bd6c35938bdf8
+Author: Ariel Richtman &lt;10679234+arichtman@users.noreply.github.com&gt;
+Date:   Sat Aug 19 21:26:38 2023 +1000
+
+    added templating to set the full dn properly
+
+commit 35275b5c46fba78faa3d32dd414f7d22d3ec5eae
+Author: Ariel Richtman &lt;10679234+arichtman@users.noreply.github.com&gt;
+Date:   Sat Aug 19 20:15:45 2023 +1000
+
+    etcd working
+
+commit 5f921cde3ece84ac5d22a9ae43ae0553a1f999f4
+Author: Ariel Richtman &lt;10679234+arichtman@users.noreply.github.com&gt;
+Date:   Fri Aug 18 20:10:00 2023 +1000
+
+    wip, etcd working.
+
+commit e7da83acc3cd73c73d16b77e27602cc6ffdca140
+Author: Ariel Richtman &lt;10679234+arichtman@users.noreply.github.com&gt;
+Date:   Thu Aug 17 20:34:13 2023 +1000
+
+    wip, squash
+
+commit ecce12d0386163fbdc9a76fc7ef1b4f6b177b92f
+Author: Ariel Richtman &lt;10679234+arichtman@users.noreply.github.com&gt;
+Date:   Thu Aug 17 16:35:31 2023 +1000
+
+    flake.lock: Update
+
+    Flake lock file updates:
+
+    • Updated input 'darwin':
+        'github:lnl7/nix-darwin/3fcd83783a1e2ddad0f14821da4186a95bc76c50' (2023-08-13)
+      → 'github:lnl7/nix-darwin/511177ffe8226c78c9cf6a92a7b5f2df3684956b' (2023-08-17)
+    • Updated input 'firefox-darwin':
+        'github:bandithedoge/nixpkgs-firefox-darwin/3be813972678fab11aaeca7c50de72babcfcd31c' (2023-08-14)
+      → 'github:bandithedoge/nixpkgs-firefox-darwin/c2dc49a0beff4218103df10790583e28d0322d9a' (2023-08-17)
+    • Updated input 'home-manager':
+        'github:nix-community/home-manager/da6874e8bb82204323b94154585a1471c739f73e' (2023-08-14)
+      → 'github:nix-community/home-manager/2471d965a3522025157a790fc49c3567fd56e26e' (2023-08-16)
+    • Updated input 'nixpkgs':
+        'github:nixos/nixpkgs/de2b8ddf94d6cc6161b7659649594c79bd66c13b' (2023-08-14)
+      → 'github:nixos/nixpkgs/214c9de8159b25f3cdc8374a80794d4d5787b4cf' (2023-08-16)
+
+commit b351d4f50d2f08bb9eca0815d76cfac4400076e0
+Author: Ariel Richtman &lt;10679234+arichtman@users.noreply.github.com&gt;
+Date:   Thu Aug 17 16:34:54 2023 +1000
+
+    wip, squash</div>
                                     </div>
                                 </div>
                             </section>
@@ -672,7 +825,7 @@ kinda pointless otherwise</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Sept 2023, 10:11:40 (timezone Australia/Brisbane) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 3 Sept 2023, 16:04:22 (timezone Australia/Brisbane) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
