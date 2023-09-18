@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1234" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1217" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            562 Commits
+                            579 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>brexhq/prompt-engineering</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tips and tricks for working with Large Language Models like OpenAI's GPT-4.</div>
@@ -316,7 +316,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>inspektor-gadget/inspektor-gadget</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The eBPF tool and systems inspection framework for Kubernetes, containers and Linux hosts.</div>
@@ -369,7 +369,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ryan4yin/nix-config</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">❄️ryan4yin's nix config(NixOS/macOS + home-manager + i3/hyprland + neovim + agenix)</div>
@@ -422,7 +422,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ryan4yin/nix-darwin-kickstarter</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">macOS as Code! An easy-to-understand nix-darwin startup configuration for beginners.  一份易于理解的 nix-darwin 初始配置模板，专为新手制作.</div>
@@ -493,6 +493,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#c6d2ea1</div>
+                                        <div class="message">more notes</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">arichtman/www.richtman.au</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#645ca37</div>
                                         <div class="message">more notes</div>
                                     </div>
@@ -545,57 +565,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">arichtman/nix</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#72f4224</div>
-                                        <div class="message">flake.lock: Update
-
-Flake lock file updates:
-
-• Updated input 'darwin':
-    'github:lnl7/nix-darwin/511177ffe8226c78c9cf6a92a7b5f2df3684956b' (2023-08-17)
-  → 'github:lnl7/nix-darwin/80bb201f4925cdda5a7a3c7b1900fb26bb2af2e8' (2023-09-15)
-• Updated input 'deploy-rs':
-    'github:serokell/deploy-rs/724463b5a94daa810abfc64a4f87faef4e00f984' (2023-06-14)
-  → 'github:serokell/deploy-rs/31c32fb2959103a796e07bbe47e0a5e287c343a8' (2023-09-12)
-• Updated input 'firefox-darwin':
-    'github:bandithedoge/nixpkgs-firefox-darwin/0a51ca57d27256e8b5ec610f29f3ebbcfbacac1f' (2023-09-01)
-  → 'github:bandithedoge/nixpkgs-firefox-darwin/f3043cd4b4a01b4fbcf0a433ccba25bb52d3306d' (2023-09-16)
-• Updated input 'home-manager':
-    'github:nix-community/home-manager/fae8af43e201a8929ce45a5ea46192bbd1ffff18' (2023-09-02)
-  → 'github:nix-community/home-manager/d9b88b43524db1591fb3d9410a21428198d75d49' (2023-09-13)
-• Updated input 'nixos-wsl':
-    'github:nix-community/nixos-wsl/faab3194692c5b6b351e33fc8d5e7f15f22d1d15' (2023-08-20)
-  → 'github:nix-community/nixos-wsl/e7d93d0f478b6fbb47c00d03449dc3d08b90abb7' (2023-09-12)
-• Updated input 'nixos-wsl/flake-utils':
-    'github:numtide/flake-utils/919d646de7be200f3bf08cb76ae1f09402b6f9b4' (2023-07-11)
-  → 'github:numtide/flake-utils/f9e7cf818399d17d347f847525c5a5a8032e4e44' (2023-08-23)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c062db9</div>
-                                        <div class="message">updates</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Sept 2023, 16:04:30 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Sept 2023, 22:05:04 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
