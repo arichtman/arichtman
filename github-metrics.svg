@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1213" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1563" class="">
     <defs>
         <style/>
     </defs>
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    3.96 GB used
+                                    4.03 GB used
                                 </div>
                             </section>
                             <section>
@@ -375,7 +375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>brexhq/prompt-engineering</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tips and tricks for working with Large Language Models like OpenAI's GPT-4.</div>
@@ -422,7 +422,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>inspektor-gadget/inspektor-gadget</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The eBPF tool and systems inspection framework for Kubernetes, containers and Linux hosts.</div>
@@ -479,6 +479,428 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 5396 commits in
+                                        <span class="repo">arichtman/qmk_firmware</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#06fa161</div>
+                                        <div class="message">Viendi 8L Layout Additions (#20832)
+
+* add matrix_diagram.md
+
+* info.json: apply friendly formatting
+
+* add LAYOUT_ansi_split_bs_rshift
+
+* add LAYOUT_ansi
+
+* add LAYOUT_ansi_arrow_split_bs
+
+* add LAYOUT_ansi_arrow
+
+* add LAYOUT_iso_split_bs_rshift
+
+* add LAYOUT_iso
+
+* add LAYOUT_iso_arrow_split_bs
+
+* add LAYOUT_iso_arrow
+
+* info.json: clean up line breaks</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c36c6e7</div>
+                                        <div class="message">TKC TKL A/B87 Layout Additions (#20831)
+
+* add matrix_diagram.md
+
+* info.json: apply friendly formatting
+
+* info.json: correct key positioning
+
+* add LAYOUT_tkl_ansi_split_bs_rshift
+
+* add LAYOUT_tkl_ansi
+
+* add LAYOUT_tkl_iso_split_bs_rshift
+
+* add LAYOUT_tkl_iso
+
+* enable Community Layout support</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#678c1d9</div>
+                                        <div class="message">TKC M0lly Layout Additions (#20830)
+
+* add matrix_diagram.md
+
+* refactor keymaps
+
+- update grid alignment
+
+* info.json: apply friendly formatting
+
+* add LAYOUT_ansi_split_bs_rshift
+
+* add LAYOUT_ansi
+
+* add LAYOUT_ansi_tsangan_split_bs_rshift
+
+* add LAYOUT_ansi_tsangan
+
+* add LAYOUT_iso_split_bs_rshift
+
+* add LAYOUT_iso
+
+* add LAYOUT_iso_tsangan_split_bs_rshift
+
+* add LAYOUT_iso_tsangan
+
+* info.json: remove extra line breaks</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9211425</div>
+                                        <div class="message">TKC California Layout Addition and Touch-Up (#20829)
+
+* info.json: apply friendly formatting
+
+* info.json: correct layout data
+
+Update layout data to my best guess of the actual layout. Seems this product never went into production.
+
+* rename LAYOUT_all to LAYOUT_ansi_split_bs_rshift
+
+* add LAYOUT_ansi
+
+* add matrix_diagram.md
+
+* Apply suggestions from code review</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#02a5e1a</div>
+                                        <div class="message">Switchplate Peripherals 910 Layout Additions (#20827)
+
+* add matrix_diagram.md
+
+* info.json: apply friendly formatting
+
+* rename LAYOUT_all to LAYOUT_65_ansi_blocker_split_bs
+
+* add LAYOUT_65_ansi_blocker
+
+* add LAYOUT_65_ansi_blocker_tsangan_split_bs
+
+* add LAYOUT_65_ansi_blocker_tsangan
+
+* enable Community Layout support
+
+* Apply suggestions from code review</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3c614d2</div>
+                                        <div class="message">Studio Kestra Nue Layout Additions (#20825)
+
+* add matrix_diagram.md
+
+* info.json: apply friendly formatting
+
+* add LAYOUT_60_ansi_split_bs_rshift
+
+* add LAYOUT_60_iso_split_bs_rshift
+
+* add LAYOUT_60_ansi
+
+* add LAYOUT_60_iso
+
+* add LAYOUT_60_tsangan_hhkb
+
+* add LAYOUT_60_ansi_tsangan
+
+* add LAYOUT_60_iso_tsangan_split_bs_rshift
+
+* add LAYOUT_60_iso_tsangan
+
+* add LAYOUT_60_ansi_wkl_split_bs_rshift
+
+* add LAYOUT_60_ansi_wkl
+
+* add LAYOUT_60_iso_wkl_split_bs_rshift
+
+* add LAYOUT_60_iso_wkl
+
+* enable Community Layout support
+
+* Apply suggestions from code review</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7023940</div>
+                                        <div class="message">Stello65 Beta Layout Additions and Clean-Up (#20824)
+
+* add matrix_diagram.md
+
+* info.json: apply friendly formatting
+
+* remove encoder hack
+
+Converts the rotary encoder hack to Encoder Map with QMK Configurator fallback.
+
+* add LAYOUT_65_ansi_blocker_split_bs
+
+* add LAYOUT_65_ansi_blocker
+
+* add LAYOUT_65_ansi_blocker_tsangan_split_bs
+
+* add LAYOUT_65_ansi_blocker_tsangan
+
+* add LAYOUT_65_iso_blocker
+
+* add LAYOUT_65_iso_blocker_split_bs
+
+* add LAYOUT_65_iso_blocker_tsangan_split_bs
+
+* add LAYOUT_65_iso_blocker_tsangan
+
+* enable Community Layout support
+
+* Apply suggestions from code review</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e3fbc4f</div>
+                                        <div class="message">SmithRune Iron180 Layout Additions (#20822)
+
+* add matrix_diagram.md
+
+* info.json: apply friendly formatting
+
+* add LAYOUT_tkl_f13_ansi_split_bs_rshift
+
+* add LAYOUT_tkl_f13_ansi
+
+* add LAYOUT_tkl_f13_ansi_tsangan_split_bs_rshift
+
+* add LAYOUT_tkl_f13_ansi_tsangan
+
+* add LAYOUT_tkl_f13_ansi_wkl_split_bs_rshift
+
+* add LAYOUT_tkl_f13_ansi_wkl
+
+* add LAYOUT_tkl_f13_iso_split_bs_rshift
+
+* add LAYOUT_tkl_f13_iso
+
+* add LAYOUT_tkl_f13_iso_tsangan_split_bs_rshift
+
+* add LAYOUT_tkl_f13_iso_tsangan
+
+* add LAYOUT_tkl_f13_iso_wkl_split_bs_rshift
+
+* add LAYOUT_tkl_f13_iso_wkl
+
+* enable Community Layout support
+
+* info.json: remove extra line breaks</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#de482b5</div>
+                                        <div class="message">senselessclay had60 Layout Additions (#20820)
+
+* add matrix_diagram.md
+
+* info.json: apply friendly formatting
+
+* add LAYOUT_60_ansi_split_bs_rshift
+
+* add LAYOUT_60_iso_split_bs_rshift
+
+* add LAYOUT_60_ansi
+
+* add LAYOUT_60_iso
+
+* add LAYOUT_60_tsangan_hhkb
+
+* add LAYOUT_60_iso_tsangan_split_bs_rshift
+
+* add LAYOUT_60_ansi_tsangan
+
+* add LAYOUT_60_iso_tsangan
+
+* add LAYOUT_60_ansi_wkl_split_bs_rshift
+
+* add LAYOUT_60_iso_wkl_split_bs_rshift
+
+* add LAYOUT_60_ansi_wkl
+
+* add LAYOUT_60_iso_wkl
+
+* enable Community Layout support
+
+* info.json: remove extra line breaks</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#75b305a</div>
+                                        <div class="message">VCL x SawnsProjects VCL65 Layout Additions (#20819)
+
+* add matrix_diagram.md
+
+* info.json: apply friendly formatting
+
+* add LAYOUT_65_ansi_split_bs
+
+* add LAYOUT_65_ansi
+
+* add LAYOUT_65_ansi_lwkl_split_bs
+
+* add LAYOUT_65_ansi_lwkl
+
+* add LAYOUT_65_ansi_rwkl_split_bs
+
+* add LAYOUT_65_ansi_rwkl
+
+* add LAYOUT_65_ansi_wkl_split_bs
+
+* add LAYOUT_65_ansi_wkl
+
+* add LAYOUT_65_iso
+
+* add LAYOUT_65_iso_split_bs
+
+* add LAYOUT_65_iso_lwkl
+
+* add LAYOUT_65_iso_lwkl_split_bs
+
+* add LAYOUT_65_iso_rwkl
+
+* add LAYOUT_65_iso_rwkl_split_bs
+
+* add LAYOUT_65_iso_wkl
+
+* add LAYOUT_65_iso_wkl_split_bs
+
+* enable Community Layout support
+
+* info.json: remove extra line breaks</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6892ba9</div>
+                                        <div class="message">Sauce Mild Layout Additions (#20818)
+
+* add matrix_diagram.md
+
+* info.json: apply friendly formatting, phase 1
+
+- apply four-space indent
+
+* info.json: apply friendly formatting, phase 2
+
+- add key labels
+
+* add LAYOUT_tkl_ansi_wkl_split_bs_rshift
+
+* add LAYOUT_tkl_ansi_wkl
+
+* add LAYOUT_tkl_iso_wkl_split_bs_rshift
+
+* add LAYOUT_tkl_iso_wkl
+
+* add position [3, 12] to LAYOUT_all
+
+Adds the previously-missing `KC_NUHS` key position to the `LAYOUT_all` macro.
+
+* info.json: edit listed maintainer
+
+Reference the maintainer's GitHub username.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8819793</div>
+                                        <div class="message">Space Holdings Nebula12B (#20821)
+
+* info.json: apply friendly formatting
+
+* rename LAYOUT_all to LAYOUT_ortho_4x3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#075c087</div>
+                                        <div class="message">saevus cor Layout Additions (#20810)
+
+* add matrix_diagram.md
+
+* rename LAYOUT_all to LAYOUT_ansi_blocker_split_bs
+
+* info.json: apply friendly formatting
+
+* add LAYOUT_ansi_blocker
+
+* add LAYOUT_ansi_blocker_tsangan_split_bs
+
+* add LAYOUT_ansi_blocker_tsangan</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d4ec165</div>
+                                        <div class="message">RART75 Hotswap Layout Additions (#20789)
+
+* add matrix_diagram.md
+
+* info.json: apply friendly formatting
+
+* rename LAYOUT_all to LAYOUT_ansi
+
+* add LAYOUT_ansi_split_bs
+
+* refactor keymaps to use LAYOUT_ansi_split_bs macro
+
+* add LAYOUT_ansi_rwkl_split_bs
+
+* add LAYOUT_ansi_rwkl</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#638a901</div>
+                                        <div class="message">Rartand Layout Additions (#20799)
+
+* add matrix_diagram.md
+
+* info.json: apply friendly formatting
+
+* add LAYOUT_ansi_arrow
+
+* add LAYOUT_ansi
+
+* add LAYOUT_ansi_tsangan_split_rshift
+
+* add LAYOUT_ansi_split_space</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8f6d64e</div>
+                                        <div class="message">RGBKB Pan Layout Additions (#20809)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#acae650</div>
+                                        <div class="message">Ratio65 Solder Layout Additions (#20802)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#62be3a7</div>
+                                        <div class="message">Revert use of legacy wear leveling driver now ChibiOS is fixed (#20806)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c3c5123</div>
+                                        <div class="message">Clean up trailing commas from info.json (#20812)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a33265</div>
+                                        <div class="message">[Keyboard] Reduce compiled size for mt64rgb's via keymap (#20814)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -559,28 +981,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">main</span>
-                                        in
-                                        <span class="repo">arichtman/comprehensive-rust</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Sept 2023, 10:10:29 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Sept 2023, 16:04:23 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
