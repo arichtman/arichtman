@@ -375,7 +375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>brexhq/prompt-engineering</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tips and tricks for working with Large Language Models like OpenAI's GPT-4.</div>
@@ -422,7 +422,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>inspektor-gadget/inspektor-gadget</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The eBPF tool and systems inspection framework for Kubernetes, containers and Linux hosts.</div>
@@ -986,7 +986,7 @@ Reference the maintainer's GitHub username.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Sept 2023, 10:11:38 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Sept 2023, 16:03:54 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
