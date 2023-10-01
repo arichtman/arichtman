@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stefanprodan/timoni</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm.</div>
@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CatalaLang/catala</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Programming language for literate programming law specification</div>
@@ -580,7 +580,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Oct 2023, 16:03:59 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Oct 2023, 22:04:32 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
