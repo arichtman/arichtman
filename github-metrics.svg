@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>proxy-wasm/spec</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WebAssembly for Proxies (ABI specification)</div>
@@ -316,7 +316,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubevela/kubevela</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Modern Application Platform.</div>
@@ -592,7 +592,7 @@ Flake lock file updates:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Oct 2023, 22:05:22 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Oct 2023, 04:04:20 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
