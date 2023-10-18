@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cloudwego/volo</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust RPC framework with high-performance and strong-extensibility for building micro-services.</div>
@@ -588,7 +588,7 @@ Similar to the other textual-* packages, seems low value to add a test for each.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Oct 2023, 22:04:57 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Oct 2023, 04:04:27 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
