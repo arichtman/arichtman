@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1180" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1163" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            636 Commits
+                            638 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jtesta/ssh-audit</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SSH server &amp; client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)</div>
@@ -290,7 +290,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        2.57k
+                                        2.58k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -375,7 +375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>syntasso/kratix</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kratix is a framework for building Platform-as-a-Product</div>
@@ -396,7 +396,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        309
+                                        310
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -428,7 +428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openkruise/kruise</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automated management of large-scale applications on Kubernetes (incubating project under CNCF)</div>
@@ -499,6 +499,41 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#e0987c3</div>
+                                        <div class="message">flake.lock: Update
+
+Flake lock file updates:
+
+• Updated input 'darwin':
+    'github:lnl7/nix-darwin/8b6ea26d5d2e8359d06278364f41fbc4b903b28a' (2023-10-03)
+  → 'github:lnl7/nix-darwin/19f75c2b45fbfc307ecfeb9dadc41a4c1e4fb980' (2023-10-19)
+• Updated input 'home-manager':
+    'github:nix-community/home-manager/78125bc681d12364cb65524eaa887354134053d0' (2023-10-15)
+  → 'github:nix-community/home-manager/c5c1ea85181d2bb44e46e8a944a8a3f56ad88f19' (2023-10-19)
+• Updated input 'nixos-wsl':
+    'github:nix-community/nixos-wsl/5da7c4fd0ab9693d83cae50de7d9430696f92568' (2023-10-09)
+  → 'github:nix-community/nixos-wsl/b63b328577f1cb5839f8ecc4fd05040335d4a55a' (2023-10-16)
+• Updated input 'nixpkgs':
+    'github:nixos/nixpkgs/12bdeb01ff9e2d3917e6a44037ed7df6e6c3df9d' (2023-10-15)
+  → 'github:nixos/nixpkgs/ff0a5a776b56e0ca32d47a4a47695452ec7f7d80' (2023-10-19)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">arichtman/nix</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#2ef2ba9</div>
                                         <div class="message">added kubectl namespace alias</div>
                                     </div>
@@ -547,50 +582,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">arichtman/junit-ci</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1cb9211</div>
-                                        <div class="message">Merge pull request #1 from arichtman/dependabot/cargo/rustix-0.38.19
-
-Bump rustix from 0.38.4 to 0.38.19</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#de04fb6</div>
-                                        <div class="message">Bump rustix from 0.38.4 to 0.38.19
-
-Bumps [rustix](https://github.com/bytecodealliance/rustix) from 0.38.4 to 0.38.19.
-- [Release notes](https://github.com/bytecodealliance/rustix/releases)
-- [Commits](https://github.com/bytecodealliance/rustix/compare/v0.38.4...v0.38.19)
-
----
-updated-dependencies:
-- dependency-name: rustix
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Oct 2023, 16:04:39 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Oct 2023, 22:04:57 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
