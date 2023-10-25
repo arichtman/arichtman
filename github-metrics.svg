@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chadmcrowell/CKA-Exercises</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Practice for the Certified Kubernetes Administrator (CKA) Exam</div>
@@ -310,7 +310,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alijahnas/CKA-practice-exercises</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a guide for passing the CNCF Certified Kubernetes Administrator (CKA) with practice exercises. Good luck!</div>
@@ -591,7 +591,7 @@ Flake lock file updates:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Oct 2023, 16:04:28 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Oct 2023, 22:04:57 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
