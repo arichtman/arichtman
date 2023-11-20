@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unixorn/internet-of-trash</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A list of IOT devices that are garbage</div>
@@ -422,7 +422,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>snowfallorg/templates</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Templates for use with @snowfallorg/lib</div>
@@ -587,7 +587,7 @@ Flake lock file updates:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Nov 2023, 10:11:44 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Nov 2023, 16:04:28 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
