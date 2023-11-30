@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>IogaMaster/snowfall-starter</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple template for a NixOS configuration with snowfall, has some basic modules like bios and efi</div>
@@ -428,7 +428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unixorn/internet-of-trash</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A list of IOT devices that are garbage</div>
@@ -573,7 +573,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Nov 2023, 10:11:36 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Nov 2023, 16:04:30 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
