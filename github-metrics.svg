@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>astro/nix-openwrt-imagebuilder</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build OpenWRT images in Nix derivations</div>
@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SSLMate/certspotter</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Certificate Transparency Log Monitor</div>
@@ -375,7 +375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chayleaf/nixos-router</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A NixOS router framework</div>
@@ -608,7 +608,7 @@ Flake lock file updates:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Dec 2023, 10:11:18 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Dec 2023, 16:04:09 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
