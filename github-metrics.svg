@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1146" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1546" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            764 Commits
+                            766 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    4.43 GB used
+                                    4.42 GB used
                                 </div>
                             </section>
                             <section>
@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>senthilrch/kube-fledged</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A kubernetes operator for creating and managing a cache of container images directly on the cluster worker nodes, so application pods start almost instantly</div>
@@ -343,7 +343,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        13
+                                        14
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -489,6 +489,183 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">arichtman/nix</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#39d01b6</div>
+                                        <div class="message">flake.lock: Update
+
+Flake lock file updates:
+
+• Updated input 'deploy-rs':
+    'github:serokell/deploy-rs/b709d63debafce9f5645a5ba550c9e0983b3d1f7' (2023-12-20)
+  → 'github:serokell/deploy-rs/1776009f1f3fb2b5d236b84d9815f2edee463a9b' (2024-01-10)
+• Updated input 'firefox-darwin':
+    'github:bandithedoge/nixpkgs-firefox-darwin/89d4e4ae6eb41838020dbe0a13cc72506402e0e3' (2024-01-07)
+  → 'github:bandithedoge/nixpkgs-firefox-darwin/4b2e87962e275f4982bcfe039c783293cde2d1e6' (2024-01-12)
+• Updated input 'home-manager':
+    'github:nix-community/home-manager/51e44a13acea71b36245e8bd8c7db53e0a3e61ee' (2024-01-05)
+  → 'github:nix-community/home-manager/93e804e7f8a1eb88bde6117cd5046501e66aa4bd' (2024-01-11)
+• Updated input 'nixpkgs':
+    'github:nixos/nixpkgs/63143ac2c9186be6d9da6035fa22620018c85932' (2024-01-02)
+  → 'github:nixos/nixpkgs/eabe8d3eface69f5bb16c18f8662a702f50c20d5' (2024-01-09)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 10000 commits in
+                                        <span class="repo">arichtman/nixpkgs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b439461</div>
+                                        <div class="message">Merge pull request #279531 from K900/linux-6.7
+
+linux_6_7: init at 6.7</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#51ae864</div>
+                                        <div class="message">pdal: alphabetical re-ordering of dependencies</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c6e8d2b</div>
+                                        <div class="message">pdal: add package tests</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#383b915</div>
+                                        <div class="message">Merge pull request #279579 from trofi/release.nix-drop-llvmPackages_7
+
+pkgs/top-level/release.nix: drop already removed `llvmPackages_7` men…</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5c2330e</div>
+                                        <div class="message">python310Packages.aws-lambda-builders: 1.44.0 -&gt; 1.45.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#04e5c93</div>
+                                        <div class="message">Merge pull request #279337 from bobby285271/upd/pantheon-tweaks
+
+pantheon-tweaks: 1.1.1 -&gt; 1.1.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#afa089e</div>
+                                        <div class="message">manifest-tool: fix static build and update 2.0.6 -&gt; 2.1.5 (#279451)
+
+* manifest-tool: 2.0.6 -&gt; 2.1.5
+
+* manifest-tool: fix static build
+
+* manifest-tool: remove import from derivation
+
+---------
+
+Co-authored-by: R. Ryantm &lt;ryantm-bot@ryantm.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c8f8c41</div>
+                                        <div class="message">python311Packages.blinkpy: update disabled</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8c56a75</div>
+                                        <div class="message">Merge pull request #279422 from wegank/partition-manager-kde
+
+libsForQt5.kpmcore, partition-manager: move to applications/kde</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6652480</div>
+                                        <div class="message">python311Packages.blinkpy: 0.22.4 -&gt; 0.22.5
+
+Diff: https://github.com/fronzbot/blinkpy/compare/refs/tags/v0.22.4...v0.22.5
+
+Changelog: https://github.com/fronzbot/blinkpy/blob/refs/tags/v0.22.5/CHANGES.rst</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#788c45e</div>
+                                        <div class="message">partition-manager: move to aliases.nix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#de1c2d1</div>
+                                        <div class="message">Merge pull request #279477 from wegank/libsodium-patch
+
+libsodium: drop mingw patch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b2d520b</div>
+                                        <div class="message">mcomix: migrate to by-name</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c914750</div>
+                                        <div class="message">sx: 2.1.7 -&gt; 3.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba9e28d</div>
+                                        <div class="message">sx: migrate to by-name</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d2cbcbc</div>
+                                        <div class="message">python3Packages.pipenv-poetry-migrate: 0.5.1 -&gt; 0.5.2
+
+Signed-off-by: Florian Brandes &lt;florian.brandes@posteo.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e70ba4b</div>
+                                        <div class="message">nng: 1.7.0 -&gt; 1.7.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#748aa8d</div>
+                                        <div class="message">cargo-run-bin: 1.7.0 -&gt; 1.7.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#211f1d8</div>
+                                        <div class="message">release-haskell.nix: test pkgs.pakcs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#df9e485</div>
+                                        <div class="message">pakcs: 2.2.1 -&gt; 3.6.0</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">arichtman/nix</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0ba2077</div>
+                                        <div class="message">updated gitignore, set to auto prune</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -523,55 +700,12 @@ Co-authored-by: Richtman, Ariel &lt;10679234+arichtman@users.noreply.github.com&
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">senthilrch/kube-fledged</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">PeterGrace/libvirt_autoscaler</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#279778 Build failure: Alacritty on x86_64-darwin</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">NixOS/nixpkgs</span></div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jan 2024, 10:11:49 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jan 2024, 16:04:28 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
