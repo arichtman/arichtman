@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cargo2nix/cargo2nix</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Granular caching, development shell, Nix &amp; Rust integration</div>
@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jetpack-io/devbox</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Instant, easy, and predictable development environments</div>
@@ -375,7 +375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cloud-hypervisor/cloud-hypervisor</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.</div>
@@ -563,7 +563,7 @@ Thanks for the clarification and Trunk!</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Feb 2024, 10:12:06 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Feb 2024, 16:03:53 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
