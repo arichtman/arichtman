@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kube-rs/kube</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust Kubernetes client and controller runtime</div>
@@ -375,7 +375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nrabulinski/cursed-nix</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -580,7 +580,7 @@ chore(deps): Update development packages</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Mar 2024, 22:05:14 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Mar 2024, 04:03:43 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
