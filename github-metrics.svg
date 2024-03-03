@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kube-rs/kube</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust Kubernetes client and controller runtime</div>
@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>soupglasses/coturnix</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NixOS configurations for my personal machines</div>
@@ -423,7 +423,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cargo2nix/cargo2nix</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Granular caching, development shell, Nix &amp; Rust integration</div>
@@ -580,7 +580,7 @@ chore(deps): Update development packages</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Mar 2024, 10:12:02 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Mar 2024, 16:04:44 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
