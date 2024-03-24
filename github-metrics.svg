@@ -316,7 +316,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>scop/pre-commit-shfmt</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">shfmt hook for pre-commit, with auto install</div>
@@ -363,7 +363,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mvdan/sh</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A shell parser, formatter, and interpreter with bash support; includes shfmt</div>
@@ -571,7 +571,7 @@ chore(deps): Update development packages</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Mar 2024, 10:12:48 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Mar 2024, 16:03:56 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
