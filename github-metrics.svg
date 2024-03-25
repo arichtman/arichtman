@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tmetsch/rusty_llm</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust based AI LLM inference service</div>
@@ -369,7 +369,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>scop/pre-commit-shfmt</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">shfmt hook for pre-commit, with auto install</div>
@@ -416,7 +416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mvdan/sh</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A shell parser, formatter, and interpreter with bash support; includes shfmt</div>
@@ -573,7 +573,7 @@ Flake lock file updates:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Mar 2024, 10:12:09 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Mar 2024, 16:04:36 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
