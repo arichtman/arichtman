@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hgrsd/drivel</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Infer a JSON schema from example data, produce nonsense synthetic data (drivel) according to the schema</div>
@@ -375,7 +375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dhall-lang/dhall-kubernetes</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Typecheck, template and modularize your Kubernetes definitions with Dhall</div>
@@ -587,7 +587,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Apr 2024, 16:04:10 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Apr 2024, 22:05:36 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
