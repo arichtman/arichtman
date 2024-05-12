@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BytesCo/docker-envsubst</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A no-frills Alpine envsubst container</div>
@@ -422,7 +422,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nullishamy/derivation-station</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A reliable NixOS configuration for survival in a non-declarative world.</div>
@@ -561,7 +561,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 May 2024, 10:12:59 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 May 2024, 16:04:28 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
