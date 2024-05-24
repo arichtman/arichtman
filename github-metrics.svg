@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bash-lsp/bash-language-server</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A language server for Bash</div>
@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oxalica/nil</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NIx Language server, an incremental analysis assistant for writing in Nix.</div>
@@ -375,7 +375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nix-community/nixd</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Nix language server, based on nix libraries [maintainer=@inclyc]</div>
@@ -428,7 +428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>linkedin/cruise-control</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a Kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters.</div>
@@ -588,7 +588,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 May 2024, 10:12:18 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 May 2024, 16:04:40 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
