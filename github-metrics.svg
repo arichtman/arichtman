@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nlewo/nix2container</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An archive-less dockerTools.buildImage implementation</div>
@@ -375,7 +375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>teamniteo/nix-docker-base</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Nix Docker base images for fast and minimal builds.</div>
@@ -658,7 +658,7 @@ tidied ci checks</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jun 2024, 10:12:04 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Jun 2024, 16:04:39 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
