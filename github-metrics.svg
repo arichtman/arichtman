@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1246" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1513" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.repository .name{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{align-items:center;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.rss{align-items:flex-start}.rss .infos{margin-bottom:3px}.rss .infos .date{font-size:10px;color:#666}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.repository .name{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{align-items:center;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.rss{align-items:flex-start}.rss .infos{margin-bottom:3px}.rss .infos .date{font-size:10px;color:#666}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -30,7 +30,7 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -39,11 +39,11 @@
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1061 Commits
+                            1062 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -409,7 +409,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        118
+                                        119
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -489,66 +489,23 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">auto-updates</span>
-                                        in
-                                        <span class="repo">arichtman/nix</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
+                                        Pushed 2 commits in
                                         <span class="repo">arichtman/nix</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">cilium</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7b2841c</div>
-                                        <div class="message">Merge pull request #13 from arichtman/auto-updates
-
-chore(deps): Update packages</div>
+                                        <div class="sha">#a1db3c7</div>
+                                        <div class="message">[skip ci] kicked off k8s module</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c0a83c5</div>
-                                        <div class="message">add node stuff to gitignore</div>
+                                        <div class="sha">#1a4a022</div>
+                                        <div class="message">[skip ci] remove kubernetes from all nodes</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#1b16894</div>
-                                        <div class="message">fix renamed darwin font setting</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#caf4c35</div>
-                                        <div class="message">chore(deps): Update packages</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#13 chore(deps): Update packages</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">arichtman/nix</span></div>
-                                    <div>4 files changed <span class="code">++172 --19</span></div>
                                 </div>
                             </section>
                         </div>
@@ -560,14 +517,14 @@ chore(deps): Update packages</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">arichtman/www.richtman.au</span>
+                                        <span class="repo">arichtman/nix</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6e11e86</div>
-                                        <div class="message">minor revision to provider cache config</div>
+                                        <div class="sha">#5120146</div>
+                                        <div class="message">add script for node certs</div>
                                     </div>
                                 </div>
                             </section>
@@ -579,19 +536,199 @@ chore(deps): Update packages</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">arichtman/nix</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">auto-updates</span></div>
+                                    <div>on branch <span class="code">cilium</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c0a83c5</div>
-                                        <div class="message">add node stuff to gitignore</div>
+                                        <div class="sha">#528339e</div>
+                                        <div class="message">[skip ci] whatever</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 226 commits in
+                                        <span class="repo">arichtman/nix</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">gitignore-generation</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7a03d48</div>
+                                        <div class="message">added awscli</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1b16894</div>
-                                        <div class="message">fix renamed darwin font setting</div>
+                                        <div class="sha">#cfcbaf8</div>
+                                        <div class="message">flake.lock: Update
+
+Flake lock file updates:
+
+• Updated input 'darwin':
+    'github:lnl7/nix-darwin/829041cf10c4f6751a53c0a11ca2fd22ff0918d6' (2023-08-05)
+  → 'github:lnl7/nix-darwin/3fcd83783a1e2ddad0f14821da4186a95bc76c50' (2023-08-13)
+• Updated input 'firefox-darwin':
+    'github:bandithedoge/nixpkgs-firefox-darwin/6081c33185dba05da784d9f2a392861af025bf1a' (2023-08-05)
+  → 'github:bandithedoge/nixpkgs-firefox-darwin/4011a1903422d241c0619f7c631a15d27643fa30' (2023-08-12)
+• Updated input 'home-manager':
+    'github:nix-community/home-manager/903e06d734bcae48efb79b9afd51b406d2744179' (2023-08-06)
+  → 'github:nix-community/home-manager/c3ab5ea047e6dc73df530948f7367455749d8906' (2023-08-12)
+• Updated input 'nixpkgs':
+    'github:nixos/nixpkgs/5068bc8fe943bde3c446326da8d0ca9c93d5a682' (2023-08-07)
+  → 'github:nixos/nixpkgs/f0451844bbdf545f696f029d1448de4906c7f753' (2023-08-12)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#25836dd</div>
+                                        <div class="message">modularized my lab nodes and added the start of my trust chain</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b94451c</div>
+                                        <div class="message">added more tf/tg aliases</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#50fab7a</div>
+                                        <div class="message">trimmed home a little, added some aliases</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#59be23e</div>
+                                        <div class="message">flake.lock: Update
+
+Flake lock file updates:
+
+• Updated input 'darwin':
+    'github:lnl7/nix-darwin/16c07487ac9bc59f58b121d13160c67befa3342e' (2023-07-27)
+  → 'github:lnl7/nix-darwin/829041cf10c4f6751a53c0a11ca2fd22ff0918d6' (2023-08-05)
+• Updated input 'firefox-darwin':
+    'github:bandithedoge/nixpkgs-firefox-darwin/69010f2ef9fbcef70d12541910ccc6db7a9997db' (2023-07-28)
+  → 'github:bandithedoge/nixpkgs-firefox-darwin/6081c33185dba05da784d9f2a392861af025bf1a' (2023-08-05)
+• Updated input 'home-manager':
+    'github:nix-community/home-manager/729ab77f9e998e0989fa30140ecc91e738bc0cb1' (2023-07-31)
+  → 'github:nix-community/home-manager/903e06d734bcae48efb79b9afd51b406d2744179' (2023-08-06)
+• Updated input 'nixpkgs':
+    'github:nixos/nixpkgs/3acb5c4264c490e7714d503c7166a3fde0c51324' (2023-07-30)
+  → 'github:nixos/nixpkgs/5068bc8fe943bde3c446326da8d0ca9c93d5a682' (2023-08-07)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#70faec1</div>
+                                        <div class="message">it's a mess, but it's _my_ mess 💖</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9d6e1ec</div>
+                                        <div class="message">fixed key pull function</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cdea1bd</div>
+                                        <div class="message">switched diff activation script</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b832d70</div>
+                                        <div class="message">added deploy nodes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e1449ee</div>
+                                        <div class="message">fixed work home</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d872a0b</div>
+                                        <div class="message">worked around work-home module not applying on mac</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#55234b2</div>
+                                        <div class="message">Merge branch 'work'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3da6422</div>
+                                        <div class="message">flake.lock: Update
+
+Flake lock file updates:
+
+• Updated input 'home-manager':
+    'github:nix-community/home-manager/8d243f7da13d6ee32f722a3f1afeced150b6d4da' (2023-07-27)
+  → 'github:nix-community/home-manager/f58889c07efa8e1328fdf93dc1796ec2a5c47f38' (2023-07-29)
+• Updated input 'nixpkgs':
+    'github:nixos/nixpkgs/11cf5e1c74fe6892e860afeeaf3bfb84fdb7b1c3' (2023-07-29)
+  → 'github:nixos/nixpkgs/d2b52322f35597c62abf56de91b0236746b2a03d' (2023-07-29)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#82b1ca1</div>
+                                        <div class="message">flake.lock: Update
+
+Flake lock file updates:
+
+• Updated input 'darwin':
+    'github:lnl7/nix-darwin/531c3de7eccf95155828e0cd9f18c25e7f937777' (2023-07-20)
+  → 'github:lnl7/nix-darwin/16c07487ac9bc59f58b121d13160c67befa3342e' (2023-07-27)
+• Updated input 'firefox-darwin':
+    'github:bandithedoge/nixpkgs-firefox-darwin/9f5f2b9396724b807818f889abfa7ccf61e20afa' (2023-07-22)
+  → 'github:bandithedoge/nixpkgs-firefox-darwin/69010f2ef9fbcef70d12541910ccc6db7a9997db' (2023-07-28)
+• Updated input 'home-manager':
+    'github:nix-community/home-manager/ee5673246de0254186e469935909e821b8f4ec15' (2023-07-20)
+  → 'github:nix-community/home-manager/8d243f7da13d6ee32f722a3f1afeced150b6d4da' (2023-07-27)
+• Updated input 'nixos-wsl':
+    'github:nix-community/nixos-wsl/20a1f182aed3d2bbc72f62f5814fc3dd34a1cf0c' (2023-07-12)
+  → 'github:nix-community/nixos-wsl/f7a95a37306c46b42e9ce751977c44c752fd5eca' (2023-07-28)
+• Updated input 'nixpkgs':
+    'github:nixos/nixpkgs/e43e2448161c0a2c4928abec4e16eae1516571bc' (2023-07-21)
+  → 'github:nixos/nixpkgs/11cf5e1c74fe6892e860afeeaf3bfb84fdb7b1c3' (2023-07-29)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d19b717</div>
+                                        <div class="message">enhanced bootstrap procedure document</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#06275a9</div>
+                                        <div class="message">added dotnet to gitignore</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4b36c9c</div>
+                                        <div class="message">suppressed terraform warnings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9bba445</div>
+                                        <div class="message">flake.lock: Update
+
+Flake lock file updates:
+
+• Updated input 'darwin':
+    'github:lnl7/nix-darwin/531c3de7eccf95155828e0cd9f18c25e7f937777' (2023-07-20)
+  → 'github:lnl7/nix-darwin/94212ebe32948471a1aa11baa5c576ce60d54589' (2023-07-26)
+• Updated input 'home-manager':
+    'github:nix-community/home-manager/ee5673246de0254186e469935909e821b8f4ec15' (2023-07-20)
+  → 'github:nix-community/home-manager/ba2c0737cc848db03470828fdb5e86df75ed42a8' (2023-07-25)
+• Updated input 'nixos-wsl':
+    'github:nix-community/nixos-wsl/20a1f182aed3d2bbc72f62f5814fc3dd34a1cf0c' (2023-07-12)
+  → 'github:nix-community/nixos-wsl/01112baf546b5577038e2a422a5215eedd9bc84b' (2023-07-24)
+• Updated input 'nixpkgs':
+    'github:nixos/nixpkgs/e43e2448161c0a2c4928abec4e16eae1516571bc' (2023-07-21)
+  → 'github:nixos/nixpkgs/a9b47d85504bdd199e90846622c76aa0bfeabfac' (2023-07-25)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1e2846f</div>
+                                        <div class="message">wip</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">mac-error</span>
+                                        in
+                                        <span class="repo">arichtman/nix</span>
                                     </div>
                                 </div>
                             </section>
@@ -601,7 +738,7 @@ chore(deps): Update packages</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jun 2024, 04:04:16 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Jun 2024, 10:12:33 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
