@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/gvisor</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Application Kernel for Containers</div>
@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spinkube/spin-operator</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Spin Operator is a Kubernetes operator that empowers platform engineers to deploy Spin applications as custom resources to their Kubernetes clusters</div>
@@ -375,7 +375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>solo-io/wasm</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Web Assembly tools and SDKs for extending cloud-native infrastructure</div>
@@ -573,7 +573,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jun 2024, 10:12:09 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Jun 2024, 16:04:42 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
