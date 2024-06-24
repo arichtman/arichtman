@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>containers/youki</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A container runtime written in Rust</div>
@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/gvisor</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Application Kernel for Containers</div>
@@ -375,7 +375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spinkube/spin-operator</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Spin Operator is a Kubernetes operator that empowers platform engineers to deploy Spin applications as custom resources to their Kubernetes clusters</div>
@@ -428,7 +428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>solo-io/wasm</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Web Assembly tools and SDKs for extending cloud-native infrastructure</div>
@@ -619,7 +619,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jun 2024, 10:13:36 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jun 2024, 16:04:38 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
