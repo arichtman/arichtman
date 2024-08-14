@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-embedded/embedded-hal</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Hardware Abstraction Layer (HAL) for embedded systems</div>
@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>micronucleus/micronucleus</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ATTiny usb bootloader with a strong emphasis on bootloader compactness.</div>
@@ -580,7 +580,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Aug 2024, 22:05:49 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Aug 2024, 04:04:28 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
