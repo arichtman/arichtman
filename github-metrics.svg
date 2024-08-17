@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jasonalexander-ja/attiny2313-template</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A template Rust repository for the ATtiny 2313</div>
@@ -316,7 +316,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jasonalexander-ja/mynn-attiny-example</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Proof of concept for using my hobby-built Rust neural network on an ATtiny85 microcontroller</div>
@@ -363,7 +363,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kpcyrd/attiny85-hello-world</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hello World Rust firmware for digispark attiny85 microcontroller</div>
@@ -562,7 +562,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Aug 2024, 22:04:50 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Aug 2024, 04:04:25 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
