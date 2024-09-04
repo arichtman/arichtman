@@ -239,7 +239,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aneoconsulting/tf-provider</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Plugin framework for Terraform and ToFu in Rust</div>
@@ -292,7 +292,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>caddyserver/replace-response</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Caddy module that performs replacements in response bodies</div>
@@ -345,7 +345,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>opnsense/ports</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OPNsense ports on top of FreeBSD</div>
@@ -540,7 +540,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Sept 2024, 16:05:07 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Sept 2024, 22:06:32 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
