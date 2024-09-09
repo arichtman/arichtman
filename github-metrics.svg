@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nimblebytes/Topton-n100-Bios-Settings</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bios settings for for the Topton N100 mini PC  for efficient power usage</div>
@@ -310,7 +310,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cafkafk/nix-weather</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Check Cache Availablility of NixOS Configurations</div>
@@ -363,7 +363,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wooorm/markdown-rs</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CommonMark compliant markdown parser in Rust with ASTs and extensions</div>
@@ -568,7 +568,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Sept 2024, 10:14:46 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Sept 2024, 16:05:17 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
