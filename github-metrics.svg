@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Malfhas/caddy-grafana</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Monitoring Caddy Server with Grafana (Prometheus + Loki) on Debian</div>
@@ -316,7 +316,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bsmithio/OPNsense-Dashboard</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A functional and useful dashboard for OPNsense that utilizes InfluxDB, Grafana, Graylog, and Telegraf.</div>
@@ -363,7 +363,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>skiffos/SkiffOS</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Any Linux distribution, anywhere.</div>
@@ -565,7 +565,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Sept 2024, 22:05:43 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Sept 2024, 04:04:45 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
