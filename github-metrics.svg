@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>euank/yaml2nix</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -323,7 +323,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Starttoaster/proxmox-exporter</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Prometheus metrics exporter for Proxmox VE</div>
@@ -376,7 +376,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>prometheus-pve/prometheus-pve-exporter</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system</div>
@@ -429,7 +429,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Malfhas/caddy-grafana</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Monitoring Caddy Server with Grafana (Prometheus + Loki) on Debian</div>
@@ -578,7 +578,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Sept 2024, 16:05:24 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Sept 2024, 22:05:38 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
