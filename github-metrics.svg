@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vidispine/hull</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The incredible HULL - Helm Uniform Layer Library - is a Helm library chart to improve Helm chart based workflows</div>
@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubeslice/kubeslice</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Multi-Cloud, Multi-Cluster Service Connectivity with Application Slices.</div>
@@ -375,7 +375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-unofficial/awesome-rust</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of Rust code and resources.</div>
@@ -570,7 +570,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Oct 2024, 16:05:08 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Oct 2024, 22:06:14 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
