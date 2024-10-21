@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>awslabs/mountpoint-s3</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.</div>
@@ -428,7 +428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vidispine/hull</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The incredible HULL - Helm Uniform Layer Library - is a Helm library chart to improve Helm chart based workflows</div>
@@ -572,7 +572,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Oct 2024, 10:15:01 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Oct 2024, 16:05:33 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
