@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>la10736/rstest</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fixture-based test framework for Rust</div>
@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>marcus0x62/quixotic</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bot and LLM Content Obfuscator</div>
@@ -562,7 +562,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jan 2025, 22:05:44 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jan 2025, 04:05:07 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
