@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubernetes/cloud-provider</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">cloud-provider defines the shared interfaces which Kubernetes cloud providers implement. These interfaces allow various controllers to integrate with any cloud provider in a pluggable fashion. Please file any issues against the main Kubernetes repo.</div>
@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sile/mamediff</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A TUI editor for managing unstaged and staged Git diffs</div>
@@ -375,7 +375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gulbanana/gg</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GG - Gui for JJ</div>
@@ -428,7 +428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Drakulix/simplelog.rs</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple Logging Facility for Rust</div>
@@ -605,7 +605,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Jan 2025, 10:14:27 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Jan 2025, 16:05:00 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
