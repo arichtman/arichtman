@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jpetazzo/httpenv</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tiny HTTP server showing the environment variables</div>
@@ -316,7 +316,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>khuedoan/homelab</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fully automated homelab from empty disk to running services with a single command.</div>
@@ -603,7 +603,7 @@ Flake lock file updates:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Feb 2025, 22:06:29 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Feb 2025, 04:04:48 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
