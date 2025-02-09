@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>f1ko/demystifying-cri</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Explanation on what a CRI (Container Runtime Interface) is and how to write it from scratch.</div>
@@ -316,7 +316,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>f1ko/demystifying-cni</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Explanation on what a CNI (Container Network Interface) is and how to write it from scratch.</div>
@@ -568,7 +568,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Feb 2025, 22:05:12 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Feb 2025, 04:04:16 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
