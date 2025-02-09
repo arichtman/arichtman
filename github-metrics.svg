@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1429" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1196" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1429 Commits
+                            1432 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>f1ko/demystifying-cri</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Explanation on what a CRI (Container Runtime Interface) is and how to write it from scratch.</div>
@@ -316,7 +316,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>f1ko/demystifying-cni</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Explanation on what a CNI (Container Network Interface) is and how to write it from scratch.</div>
@@ -363,7 +363,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>deislabs/containerd-wasm-shims</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">containerd shims for running WebAssembly workloads in Kubernetes</div>
@@ -477,6 +477,70 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">arichtman/nix</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9b62f84</div>
+                                        <div class="message">wip: fucking around with cni</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">arichtman/nix</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f666ccb</div>
+                                        <div class="message">wip: fucking around with cni</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#df97dd1</div>
+                                        <div class="message">refactor: use lib for kubernetes cli args</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">arichtman/www.richtman.au</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fdefc40</div>
+                                        <div class="message">wip: add draft of cni debugging</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
@@ -499,146 +563,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 10000 commits in
-                                        <span class="repo">arichtman/nixpkgs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1c5f393</div>
-                                        <div class="message">python312Packages.types-awscrt: 0.23.8 -&gt; 0.23.9 (#379559)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#21b5fa4</div>
-                                        <div class="message">python312Packages.mypy-boto3-sagemaker: 1.36.2 -&gt; 1.36.13</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ae8affe</div>
-                                        <div class="message">python312Packages.mypy-boto3-rds: 1.36.0 -&gt; 1.36.11</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#554bddd</div>
-                                        <div class="message">python312Packages.mypy-boto3-mediatailor: 1.36.10 -&gt; 1.36.12</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#905555d</div>
-                                        <div class="message">python312Packages.mypy-boto3-iam: 1.36.0 -&gt; 1.36.13</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#44e3977</div>
-                                        <div class="message">python312Packages.mypy-boto3-dms: 1.36.0 -&gt; 1.36.13</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#04e1380</div>
-                                        <div class="message">python312Packages.mypy-boto3-datasync: 1.36.8 -&gt; 1.36.13</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#edcdc79</div>
-                                        <div class="message">python312Packages.mypy-boto3-codebuild: 1.36.0 -&gt; 1.36.11</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7a541a2</div>
-                                        <div class="message">python312Packages.mypy-boto3-amp: 1.36.0 -&gt; 1.36.11</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#152f99c</div>
-                                        <div class="message">python312Packages.datadog: 0.50.2 -&gt; 0.51.0 (#379755)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#20ccf04</div>
-                                        <div class="message">python313Packages.holidays: 0.65 -&gt; 0.66
-
-Diff: https://github.com/vacanza/python-holidays/compare/refs/tags/v0.65...v0.66
-
-Changelog: https://github.com/vacanza/python-holidays/releases/tag/v0.66</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d2dd61</div>
-                                        <div class="message">python312Packages.webauthn: 2.5.0 -&gt; 2.5.1 (#379756)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#482d1c3</div>
-                                        <div class="message">vesktop: 1.5.4 -&gt; 1.5.5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#550e11f</div>
-                                        <div class="message">staging-next 2025-01-27 (#377253)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d1c33c</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/master' into staging-next</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#98eef66</div>
-                                        <div class="message">cpuinfo: 0-unstable-2025-01-10 -&gt; 0-unstable-2025-02-03</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b59c65f</div>
-                                        <div class="message">terraform-providers.ibm: 1.73.0 -&gt; 1.75.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#29c58cf</div>
-                                        <div class="message">wgsl-analyzer: 0.8.1 -&gt; 0.9.4 (#379484)
-
-Co-authored-by: genga898 &lt;genga898@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f46a14</div>
-                                        <div class="message">jruby: 9.4.10.0 -&gt; 9.4.11.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cdc2b63</div>
-                                        <div class="message">rqlite: 8.36.8 -&gt; 8.36.11</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      tag
-                                        <span class="code">branch-off-24.11</span>
-                                        in
-                                        <span class="repo">arichtman/nixpkgs</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      tag
-                                        <span class="code">24.11-beta</span>
-                                        in
-                                        <span class="repo">arichtman/nixpkgs</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Feb 2025, 16:04:37 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Feb 2025, 22:05:12 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
