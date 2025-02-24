@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nixops4/nixops4</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Deploy with Nix and manage resources declaratively</div>
@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>divnix/std</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!</div>
@@ -369,7 +369,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>arnarg/nixidy</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kubernetes GitOps with nix and Argo CD.</div>
@@ -559,7 +559,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Feb 2025, 16:05:20 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Feb 2025, 22:06:24 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
