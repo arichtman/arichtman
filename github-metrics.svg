@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>holo-routing/containerlab-topologies</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Containerlab topologies for routing software interoperability tests.</div>
@@ -316,7 +316,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cilium/pwru</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Packet, where are you? -- eBPF-based Linux kernel networking debugger</div>
@@ -422,7 +422,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nixops4/nixops4</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Deploy with Nix and manage resources declaratively</div>
@@ -592,7 +592,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Mar 2025, 16:05:26 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Mar 2025, 22:06:25 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
