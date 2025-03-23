@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    6.91 GB used
+                                    6.92 GB used
                                 </div>
                             </section>
                             <section>
@@ -483,6 +483,112 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2281 commits in
+                                        <span class="repo">arichtman/nixpkgs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#22f7032</div>
+                                        <div class="message">dotnet-repl: 0.3.230 -&gt; 0.3.239</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e51ecca</div>
+                                        <div class="message">python312Packages.aioshelly: 13.3.0 -&gt; 13.4.0 (#391013)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0c52424</div>
+                                        <div class="message">python312Packages.types-lxml: 2024.12.13 -&gt; 2025.02.24 (#386200)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7aed1ff</div>
+                                        <div class="message">exploitdb: 2024-11-26 -&gt; 2025-03-20
+
+Diff: https://gitlab.com/exploit-database/exploitdb/-/compare/refs/tags/2024-11-26...2025-03-20</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2b7d9e2</div>
+                                        <div class="message">knot-dns: 3.4.4 -&gt; 3.4.5 (#390962)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#09058df</div>
+                                        <div class="message">python313Packages.bloodyad: 2.1.8 -&gt; 2.1.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd936de</div>
+                                        <div class="message">mdbook: 0.4.45 -&gt; 0.4.47 (#389360)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3080d5d</div>
+                                        <div class="message">nextcloud: update (#391326)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1135cde</div>
+                                        <div class="message">python312Packages.types-tqdm: 4.67.0.20250301 -&gt; 4.67.0.20250319</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6d1e63d</div>
+                                        <div class="message">python312Packages.nodriver: 0.40 -&gt; 0.41</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e51d7bd</div>
+                                        <div class="message">qt6: remove stdenv fully (#391178)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1422e89</div>
+                                        <div class="message">naev: fix the build after luajit update (#391082)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a753d3d</div>
+                                        <div class="message">bsc: 3.3.5 -&gt; 3.3.6</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b5d456b</div>
+                                        <div class="message">automatic-timezoned: 2.0.64 -&gt; 2.0.66</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a900ee</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/master' into staging-next</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b64ec19</div>
+                                        <div class="message">nixos/fonts: ship fontconfig caches even for cross-compiled hosts (#391305)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0402be6</div>
+                                        <div class="message">alist: 3.42.0 -&gt; 3.43.0 (#391471)
+
+Co-authored-by: Moraxyc &lt;Moraxyc@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f341b4c</div>
+                                        <div class="message">lief: build shared library when stdenv is not static
+
+This makes the libLIEF library consistent with the package-set it is
+obtained from (i.e. `libLIEF.a` for `pkgs.pkgsStatic` and `libLIEF.so`
+for `pkgs`).</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cee41d8</div>
+                                        <div class="message">lief: modernize
+
+Use stdenv finalAttrs pattern and newer fetchFromGitHub arguments.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb1a701</div>
+                                        <div class="message">lief: nixfmt</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -567,112 +673,12 @@ chore(deps): Update development packages</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2244 commits in
-                                        <span class="repo">arichtman/nixpkgs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">add-package-kubectl-kcl</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4fc4989</div>
-                                        <div class="message">dmd: 2.109.1 -&gt; 2.110.0 (#388129)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#59461f5</div>
-                                        <div class="message">python313Packages.whenever: 0.7.2 -&gt; 0.7.3
-
-Changelog: https://github.com/ariebovenberg/whenever/blob/refs/tags/0.7.3/CHANGELOG.rst</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1516e1d</div>
-                                        <div class="message">stm32cubemx: 6.13.0 -&gt; 6.14.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#57bc235</div>
-                                        <div class="message">openrefine: 3.9.0 -&gt; 3.9.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4dbb283</div>
-                                        <div class="message">mpc-qt: 24.06 -&gt; 24.12.1-flatpak</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b6add74</div>
-                                        <div class="message">octavePackages.image: 2.14.0 -&gt; 2.16.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3051bb6</div>
-                                        <div class="message">iozone: 3.506 -&gt; 3.507 (#388653)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#26a979a</div>
-                                        <div class="message">yafc-ce: 2.8.0 -&gt; 2.10.0 (#387096)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ba14eb</div>
-                                        <div class="message">windsurf: 1.4.6 -&gt; 1.5.6 (#391346)
-
-Co-authored-by: xiaoxiangmoe &lt;xiaoxiangmoe@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe6ccf9</div>
-                                        <div class="message">zoraxy: 3.1.1 -&gt; 3.1.8 (#383418)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1f2ee8f</div>
-                                        <div class="message">yew-fmt: 0.5.5 -&gt; 0.6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#06c6b7f</div>
-                                        <div class="message">python3Packages.betterproto: fix build failure (#383595)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cdde3c9</div>
-                                        <div class="message">gopeed: 1.6.10 -&gt; 1.6.11 (#390186)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a8d0526</div>
-                                        <div class="message">zettlr: 3.2.0 -&gt; 3.4.3 (#390175)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#500cbdc</div>
-                                        <div class="message">hubstaff: 1.6.29-7f771670 -&gt; 1.6.31-a6da06ad (#390107)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d7c69b</div>
-                                        <div class="message">meowlnir: 0.2.0 -&gt; 0.3.0 (#390684)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c6f13e8</div>
-                                        <div class="message">fluxcd: 2.5.0 -&gt; 2.5.1 (#390005)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8335d9f</div>
-                                        <div class="message">hydralauncher: 3.2.3 -&gt; 3.3.0 (#389984)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b05af9f</div>
-                                        <div class="message">swayimg: 3.8 -&gt; 3.9 (#389867)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#17829e5</div>
-                                        <div class="message">stackit-cli: 0.24.0 -&gt; 0.26.0 (#389834)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Mar 2025, 10:17:02 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Mar 2025, 16:05:01 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
