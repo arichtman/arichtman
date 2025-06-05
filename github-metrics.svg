@@ -375,7 +375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jsa4000/homelab-ops</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Homelab setup using modern ops patterns and best practices</div>
@@ -428,7 +428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JulienMalka/artiflakery</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A webserver for on the fly delivery of Nix flake artifacts</div>
@@ -592,7 +592,7 @@ Do let me know if you'd prefer a separate issue filed and thanks again for all y
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jun 2025, 16:06:12 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jun 2025, 22:07:09 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
