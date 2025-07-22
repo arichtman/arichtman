@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cloudflare/psi_exporter</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Prometheus exporter for Pressure Stall Information (PSI) from Linux kernel.</div>
@@ -583,7 +583,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2025, 22:07:19 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jul 2025, 04:06:01 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
