@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubernetes-retired/blixt</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Layer 4 Kubernetes load-balancer</div>
@@ -428,7 +428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubernetes-monitoring/kubernetes-mixin</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A set of Grafana dashboards and Prometheus alerts for Kubernetes.</div>
@@ -589,7 +589,7 @@ chore(deps): Update development packages</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Sept 2025, 10:14:26 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Sept 2025, 16:05:08 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
