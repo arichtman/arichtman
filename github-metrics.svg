@@ -239,7 +239,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>guillomep/external-dns-unbound-webhook</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Webhook of External DNS for Unbound</div>
@@ -345,7 +345,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Cosmian/kms</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A feature-rich, scalable, Key Management System</div>
@@ -466,7 +466,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jan 2026, 16:07:17 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jan 2026, 22:08:27 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
