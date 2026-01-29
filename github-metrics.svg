@@ -292,7 +292,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ThalesGroup/k8s-kms-plugin</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">gRPC service that leverages a remote or local HSM/TPM to encrypt Kubernetes data at-rest with KMS v2.</div>
@@ -466,7 +466,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jan 2026, 10:21:52 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jan 2026, 16:15:59 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
