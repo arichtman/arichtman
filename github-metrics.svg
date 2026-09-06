@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>psanford/tpm-fido</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A WebAuthn/U2F token protected by a TPM (Go/Linux)</div>
@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>irtimmer/TuSK</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TuSK is a virtual TPM based FIDO2 Security Key</div>
@@ -496,7 +496,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Sept 2026, 00:51:53 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Sept 2026, 05:56:49 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
