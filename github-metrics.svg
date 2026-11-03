@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pando85/kaniop</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Oct 05 2026</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kubernetes operator for managing Kanidm</div>
@@ -496,7 +496,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Nov 2026, 23:32:40 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Nov 2026, 08:50:44 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
