@@ -375,7 +375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>topolvm/pvc-autoresizer</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Auto-resize PersistentVolumeClaim objects based on Prometheus metrics</div>
@@ -428,7 +428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>esnet/helm-oci</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Helm plugin that adds local bookmarking for OCI-based Helm charts.</div>
@@ -496,7 +496,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Nov 2026, 01:01:21 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 19 Nov 2026, 09:50:59 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
