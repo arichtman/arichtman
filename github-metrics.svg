@@ -269,7 +269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>piraeusdatastore/piraeus-operator</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Piraeus Operator manages LINSTOR clusters in Kubernetes.</div>
@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>piraeusdatastore/piraeus</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">High Available Datastore for Kubernetes</div>
@@ -496,7 +496,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Nov 2026, 11:27:02 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 28 Nov 2026, 02:02:50 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
